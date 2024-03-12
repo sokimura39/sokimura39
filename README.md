@@ -10,4 +10,4 @@ Some recent projects to share:
 Planning to create a portfolio website to showcase soon!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokimura39&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokimura39&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
