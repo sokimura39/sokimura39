@@ -4,10 +4,8 @@ Interested in the dynamics of the city in general, and my projects here are most
 
 Some recent projects to share:
 
+- Created a [portfolio website](https://sokimura39.github.io/) on GitHub Pages using [Quarto](https://quarto.org/)
 - I ran through the [\#30DayMapChallenge](https://sokimura39.github.io/30DayMapChallenge/) in November 2023
-- Currently working on a [Remote Sensing Learning Diary](https://sokimura39.github.io/RemoteSensingDiary/) for my course at UCL - trying to get the hang of analysing satellite imagery
-
-Planning to create a portfolio website to showcase soon!
-
+- Finished a [Remote Sensing Learning Diary](https://sokimura39.github.io/RemoteSensingDiary/) for my course at UCL - trying to get the hang of analysing satellite imagery
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokimura39&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
